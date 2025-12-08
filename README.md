@@ -66,8 +66,8 @@ Y= A⊕B
 
 Program for logic gates and verify its truth table in quartus using Verilog programming
 ```
- Developed by: Rishab p doshi
- RegisterNumber: 212224240134
+ Developed by: Saileshwaran Ganesan
+ RegisterNumber: 212224230237
 ```
 ```
 module loggic_gate(a,b,c1,c2,c3,c4,c5,c6,c7);
